@@ -1,0 +1,986 @@
+umur,jenis_kelamin,foto_toraks,status_hiv,riwayat_diabetes,hasil_tcm,lokasi_anatomi
+17,P,Positif,Negatif,Tidak,,Paru
+19,P,Positif,Negatif,Tidak,,Paru
+37,P,Positif,Negatif,Tidak,,Paru
+62,P,Positif,Negatif,Tidak,,Paru
+25,P,,Negatif,Tidak,,ekstra_paru
+56,P,Positif,Negatif,Tidak,,Paru
+31,P,,Negatif,Tidak,,ekstra_paru
+26,P,Positif,Negatif,Tidak,,Paru
+50,P,Positif,Negatif,Tidak,,Paru
+47,P,Positif,Negatif,Tidak,,Paru
+57,P,Positif,Negatif,Tidak,,Paru
+31,P,Positif,Negatif,Tidak,,Paru
+33,P,Positif,,Tidak,,Paru
+30,P,Positif,Negatif,Tidak,,Paru
+27,P,,Negatif,Tidak,,ekstra_paru
+65,P,Positif,Negatif,Tidak,,Paru
+60,P,Positif,Negatif,Tidak,,Paru
+57,P,Positif,,Tidak,,Paru
+66,P,Positif,Negatif,Tidak,,Paru
+51,P,Positif,Negatif,Tidak,,Paru
+21,P,Positif,Negatif,Tidak,,Paru
+67,P,Positif,Negatif,Tidak,,Paru
+47,P,Positif,Negatif,Tidak,,Paru
+21,P,Negatif,Negatif,Tidak,,ekstra_paru
+55,P,Positif,Negatif,Tidak,,Paru
+36,P,Positif,Negatif,Tidak,,Paru
+58,P,,Negatif,Tidak,,ekstra_paru
+50,P,Positif,Negatif,Tidak,,Paru
+52,P,Positif,Negatif,Tidak,,Paru
+55,P,Positif,Negatif,Tidak,,Paru
+46,P,Positif,Negatif,Ya,,Paru
+75,P,Positif,Negatif,Tidak,,Paru
+55,P,Positif,Negatif,Tidak,,Paru
+53,P,Positif,Negatif,Tidak,,Paru
+49,P,Positif,Negatif,Tidak,,Paru
+57,P,Positif,Negatif,Tidak,,Paru
+31,P,Positif,Negatif,Tidak,,Paru
+48,P,Positif,Negatif,Ya,Rif Sensitif,Paru
+27,L,,Negatif,Tidak,,ekstra_paru
+17,L,,Negatif,,,ekstra_paru
+49,L,Positif,Negatif,Tidak,,Paru
+18,L,,Negatif,Tidak,,ekstra_paru
+18,L,Positif,Negatif,Tidak,,Paru
+19,L,,Negatif,Tidak,,ekstra_paru
+24,L,,Negatif,Tidak,,ekstra_paru
+13,L,,Negatif,Tidak,,ekstra_paru
+14,L,,Negatif,Tidak,,ekstra_paru
+57,L,Positif,Negatif,Tidak,,Paru
+49,L,Positif,Negatif,Tidak,,Paru
+49,L,Positif,Negatif,Tidak,,Paru
+35,L,Positif,Positif,Tidak,,Paru
+35,L,Positif,Negatif,Tidak,,Paru
+60,L,Positif,Negatif,,Rif Sensitif,Paru
+54,L,Positif,Negatif,Tidak,,Paru
+52,L,Positif,Positif,Ya,,Paru
+53,L,Positif,Negatif,Tidak,,Paru
+49,L,,Negatif,Tidak,,ekstra_paru
+65,L,Positif,Negatif,Tidak,,Paru
+49,L,Positif,Negatif,Tidak,,Paru
+48,L,Positif,Negatif,Tidak,,Paru
+44,L,Positif,Negatif,Tidak,,Paru
+58,L,Positif,Positif,Tidak,,Paru
+64,L,Positif,Negatif,Tidak,,Paru
+28,L,Positif,Negatif,Tidak,,Paru
+64,L,Positif,,Tidak,,Paru
+57,L,Positif,Negatif,Tidak,,Paru
+34,L,Positif,Negatif,Tidak,,Paru
+28,L,Positif,Negatif,Tidak,,Paru
+49,L,Positif,Negatif,Tidak,,Paru
+80,L,Positif,Negatif,Tidak,,Paru
+48,L,Positif,Negatif,Tidak,,Paru
+53,L,Positif,Negatif,Tidak,,Paru
+48,L,Positif,Negatif,Tidak,,Paru
+30,L,Positif,Negatif,Ya,,Paru
+34,L,Positif,Negatif,Tidak,,Paru
+50,L,Positif,Negatif,Tidak,,Paru
+46,L,Positif,Negatif,Tidak,,Paru
+60,L,Positif,Negatif,Tidak,,Paru
+55,L,Positif,Negatif,Tidak,,Paru
+45,L,Positif,Negatif,Ya,,Paru
+64,L,Positif,Negatif,Tidak,,Paru
+44,L,Positif,Negatif,Tidak,,Paru
+49,L,Positif,Negatif,Tidak,,Paru
+78,L,Positif,Negatif,Tidak,,Paru
+60,L,Positif,Negatif,Tidak,,Paru
+61,L,Positif,Negatif,Tidak,,Paru
+66,L,Positif,Negatif,Tidak,,Paru
+16,L,Positif,Negatif,Tidak,,Paru
+53,L,Positif,Negatif,Tidak,,Paru
+45,L,Positif,Negatif,Tidak,,Paru
+57,L,Positif,Negatif,Tidak,,Paru
+40,L,Positif,Negatif,Tidak,,Paru
+56,L,Positif,Negatif,Tidak,,Paru
+29,L,Positif,Negatif,Tidak,,Paru
+64,L,Positif,Negatif,Ya,,Paru
+45,L,Positif,Negatif,Tidak,,Paru
+49,L,Positif,Negatif,Tidak,,Paru
+30,L,Positif,Negatif,Tidak,,Paru
+21,L,Negatif,Negatif,Tidak,,ekstra_paru
+2,L,Positif,Negatif,Tidak,,Paru
+66,P,Positif,Negatif,Tidak,,Paru
+61,L,Positif,Negatif,Tidak,,Paru
+17,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+60,L,Positif,Negatif,Tidak,,Paru
+51,L,Positif,Negatif,Tidak,,Paru
+60,L,Positif,Negatif,Tidak,,Paru
+46,L,Positif,Negatif,Tidak,,Paru
+43,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+1,L,Positif,Negatif,Tidak,,Paru
+37,P,Positif,Negatif,Tidak,,Paru
+14,L,Negatif,Negatif,,,ekstra_paru
+31,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+16,P,Positif,Negatif,Tidak,,Paru
+83,L,Positif,Negatif,Tidak,Negatif,Paru
+18,L,Positif,Negatif,Tidak,,Paru
+33,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+74,L,Positif,Negatif,Tidak,,Paru
+44,P,Positif,Positif,Tidak,Negatif,Paru
+13,P,Positif,Negatif,Tidak,,Paru
+13,L,Positif,Negatif,Tidak,,Paru
+20,P,Positif,Negatif,Tidak,,Paru
+57,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+17,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+31,P,Positif,Negatif,Tidak,,Paru
+69,P,Positif,Negatif,Tidak,,Paru
+32,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+47,L,Positif,Negatif,Tidak,Negatif,Paru
+22,P,,Negatif,Tidak,,ekstra_paru
+42,L,Positif,Negatif,Tidak,Negatif,Paru
+46,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+76,P,Positif,Negatif,Tidak,Negatif,Paru
+20,P,Negatif,Negatif,Tidak,,ekstra_paru
+43,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+73,L,Positif,Negatif,Tidak,Negatif,Paru
+42,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+22,L,Negatif,Negatif,Ya,,ekstra_paru
+24,P,Negatif,Negatif,Tidak,,ekstra_paru
+24,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+63,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+54,L,Positif,Negatif,Ya,Negatif,Paru
+59,L,Positif,Negatif,Tidak,Negatif,Paru
+17,L,Negatif,Negatif,Tidak,,ekstra_paru
+43,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+55,L,,Negatif,Tidak,Rif Sensitif,Paru
+27,L,Positif,Negatif,Tidak,,Paru
+54,L,Negatif,Negatif,Tidak,,ekstra_paru
+50,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+7,P,Positif,Negatif,Tidak,,Paru
+10,P,Positif,Negatif,Tidak,,Paru
+35,P,Positif,Negatif,Tidak,,Paru
+18,P,Negatif,Negatif,Tidak,,ekstra_paru
+27,P,Negatif,Negatif,Tidak,,ekstra_paru
+39,P,Negatif,Negatif,Tidak,,ekstra_paru
+65,L,Positif,Negatif,Tidak,Negatif,Paru
+51,L,Positif,Negatif,Ya,Rif Sensitif,Paru
+12,L,Negatif,Negatif,,,ekstra_paru
+54,L,,Negatif,Tidak,Rif Sensitif,Paru
+55,P,Positif,Negatif,Tidak,Negatif,Paru
+57,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+46,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+56,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+6,L,Positif,Negatif,Tidak,,Paru
+31,L,Positif,Positif,Tidak,Rif Sensitif,Paru
+43,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+48,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+23,L,Positif,Positif,Tidak,,Paru
+53,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+52,L,Positif,Negatif,Tidak,Negatif,Paru
+47,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+53,P,Positif,Negatif,Tidak,,Paru
+45,P,Positif,Negatif,Tidak,Negatif,Paru
+8,P,Positif,Negatif,Tidak,,Paru
+19,P,Negatif,Negatif,Tidak,,ekstra_paru
+50,P,Positif,Negatif,Tidak,,Paru
+53,P,Positif,Negatif,Tidak,,Paru
+60,P,Positif,Negatif,Tidak,Negatif,Paru
+32,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+51,P,Negatif,Negatif,Tidak,,ekstra_paru
+24,P,Negatif,Negatif,Tidak,,ekstra_paru
+53,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+60,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+74,L,Positif,Negatif,Tidak,,Paru
+42,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+35,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+60,L,Positif,Negatif,Tidak,Negatif,Paru
+54,L,Positif,Negatif,Tidak,,Paru
+54,L,Positif,Negatif,Tidak,,Paru
+51,P,Positif,Negatif,Tidak,,Paru
+28,P,Positif,Positif,Tidak,,Paru
+65,L,Positif,Negatif,Tidak,Negatif,Paru
+41,L,Positif,Negatif,Tidak,,Paru
+47,L,Positif,Negatif,Tidak,Negatif,Paru
+45,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+14,P,Positif,Negatif,Tidak,,Paru
+22,L,Positif,Negatif,Tidak,Negatif,Paru
+37,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+36,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+31,P,Positif,Negatif,Tidak,Negatif,Paru
+45,P,Positif,Negatif,Tidak,Negatif,Paru
+49,L,Positif,Negatif,Tidak,Negatif,Paru
+79,L,Positif,Negatif,Tidak,Negatif,Paru
+35,P,Negatif,Negatif,Tidak,,ekstra_paru
+25,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+19,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+17,L,Positif,Negatif,Tidak,Rif resisten,Paru
+41,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+60,L,Positif,Negatif,Tidak,Negatif,Paru
+69,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+70,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+60,L,Positif,Negatif,Tidak,Negatif,Paru
+50,P,Positif,Negatif,Tidak,Negatif,Paru
+28,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+22,L,Negatif,Negatif,Tidak,,ekstra_paru
+61,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+45,P,Positif,Negatif,Tidak,Negatif,Paru
+60,L,Positif,Negatif,Tidak,Negatif,Paru
+60,P,Positif,Negatif,Tidak,Negatif,Paru
+39,P,Positif,Negatif,Tidak,,Paru
+61,L,Positif,Negatif,Tidak,,Paru
+20,P,Positif,Negatif,Tidak,Negatif,Paru
+47,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+55,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+33,L,Negatif,Negatif,Tidak,,ekstra_paru
+41,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+47,P,Positif,Negatif,Tidak,Negatif,Paru
+59,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+67,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+30,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+35,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+33,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+11,P,Positif,Negatif,Tidak,,Paru
+60,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+60,P,Positif,Negatif,Tidak,Negatif,Paru
+50,L,Positif,Negatif,Tidak,Negatif,Paru
+58,L,Positif,Negatif,Tidak,Negatif,Paru
+54,L,Negatif,Negatif,Tidak,,ekstra_paru
+6,P,Positif,Negatif,Tidak,,Paru
+60,P,Positif,Negatif,Tidak,,Paru
+48,P,Positif,Negatif,Tidak,Negatif,Paru
+25,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+53,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+50,L,Positif,Negatif,,Negatif,Paru
+17,L,Positif,Negatif,Tidak,,Paru
+50,L,Positif,Positif,Tidak,,Paru
+1,L,Positif,Negatif,Tidak,,Paru
+51,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+56,L,Positif,Negatif,Ya,Rif Sensitif,Paru
+54,L,Positif,Negatif,Tidak,Negatif,Paru
+25,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+54,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+41,L,Positif,Negatif,Tidak,Negatif,Paru
+48,L,Positif,Negatif,Tidak,Negatif,Paru
+22,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+48,P,Positif,Negatif,Tidak,Negatif,Paru
+56,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+29,P,Positif,Negatif,Tidak,,Paru
+58,P,Positif,Negatif,Tidak,Negatif,Paru
+60,L,Positif,Negatif,Tidak,Negatif,Paru
+45,P,Negatif,Negatif,Tidak,,ekstra_paru
+63,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+38,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+63,P,Positif,Negatif,Tidak,Negatif,Paru
+60,L,Positif,Negatif,Tidak,Negatif,Paru
+14,L,Positif,Negatif,Tidak,,Paru
+85,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+56,L,Positif,Negatif,Ya,,Paru
+71,P,Negatif,Negatif,Tidak,,ekstra_paru
+42,L,Positif,Negatif,Tidak,Negatif,Paru
+54,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+47,L,Positif,Positif,Tidak,Negatif,Paru
+27,L,Positif,Positif,Tidak,,Paru
+37,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+55,L,Positif,Negatif,Tidak,Negatif,Paru
+50,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+49,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+16,P,Positif,Negatif,Tidak,Negatif,Paru
+54,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+42,P,Positif,Negatif,Tidak,Negatif,Paru
+55,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+46,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+64,L,Positif,Negatif,Tidak,Negatif,Paru
+59,P,Positif,Negatif,Tidak,Negatif,Paru
+51,P,Negatif,Negatif,Tidak,,ekstra_paru
+73,L,Positif,Negatif,Tidak,Negatif,Paru
+52,P,Positif,Negatif,Tidak,Negatif,Paru
+62,P,Positif,Negatif,Tidak,Negatif,Paru
+43,L,Positif,Negatif,Tidak,Negatif,Paru
+36,P,Positif,Negatif,Tidak,,Paru
+61,P,Positif,Negatif,Ya,Rif Sensitif,Paru
+51,P,Positif,Negatif,Tidak,Negatif,Paru
+81,P,Positif,Negatif,Tidak,Negatif,Paru
+48,L,Negatif,,Tidak,,ekstra_paru
+61,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+64,L,Positif,,Tidak,Rif Sensitif,Paru
+52,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+52,L,Negatif,,Tidak,,ekstra_paru
+24,L,Positif,Negatif,Tidak,Negatif,Paru
+36,L,Positif,Negatif,Tidak,Rif resisten,Paru
+20,L,Negatif,,Tidak,,ekstra_paru
+12,P,Positif,Negatif,Tidak,,Paru
+1,L,Positif,Negatif,Tidak,,Paru
+5,L,Positif,Negatif,Tidak,,Paru
+1,L,Positif,Negatif,Tidak,,Paru
+13,P,Positif,Negatif,Tidak,,Paru
+12,P,Positif,Negatif,Tidak,,Paru
+54,P,Positif,,Tidak,,Paru
+58,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+46,L,Negatif,Positif,Tidak,,ekstra_paru
+54,L,Positif,Negatif,Tidak,Negatif,Paru
+57,L,Positif,Negatif,Tidak,Negatif,Paru
+51,L,Positif,,Tidak,Rif Sensitif,Paru
+35,L,Positif,Negatif,Tidak,Negatif,Paru
+28,L,Negatif,Negatif,Tidak,,ekstra_paru
+55,L,Positif,Negatif,Tidak,,Paru
+23,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+60,L,Positif,,Tidak,Negatif,Paru
+58,L,Positif,Negatif,Tidak,Negatif,Paru
+47,L,Positif,Negatif,Tidak,Negatif,Paru
+55,P,Negatif,,Tidak,,ekstra_paru
+55,P,Positif,,Tidak,Rif Sensitif,Paru
+51,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+28,P,Positif,,Ya,Rif Sensitif,Paru
+53,P,Positif,,Tidak,Negatif,Paru
+4,L,Positif,Negatif,Tidak,,Paru
+68,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+69,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+61,L,Negatif,,Tidak,,ekstra_paru
+28,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+33,L,Negatif,Negatif,Ya,,ekstra_paru
+35,P,Positif,Negatif,Tidak,Negatif,Paru
+50,L,Positif,Positif,Tidak,Negatif,Paru
+35,L,Positif,Negatif,Tidak,Negatif,Paru
+57,L,Positif,Negatif,Tidak,Negatif,Paru
+48,P,Positif,Negatif,Ya,Rif Sensitif,Paru
+51,P,Positif,Negatif,Tidak,Negatif,Paru
+75,P,Positif,Negatif,Tidak,Negatif,Paru
+57,L,Positif,,Tidak,Rif Sensitif,Paru
+37,L,Positif,,Tidak,Rif Sensitif,Paru
+60,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+48,P,Positif,Negatif,Tidak,Negatif,Paru
+66,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+68,L,Positif,Negatif,Tidak,Negatif,Paru
+49,L,Positif,Negatif,Tidak,Negatif,Paru
+41,P,Negatif,,Tidak,,ekstra_paru
+51,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+61,L,Negatif,,Tidak,,ekstra_paru
+62,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+33,L,Positif,Negatif,Tidak,Negatif,Paru
+45,L,Positif,Negatif,Tidak,Negatif,Paru
+53,L,Positif,Negatif,Ya,Rif Sensitif,Paru
+30,L,Positif,Negatif,Tidak,Negatif,Paru
+33,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+21,L,Negatif,,Tidak,,ekstra_paru
+25,L,Negatif,,Tidak,,ekstra_paru
+66,L,Positif,,Tidak,Rif Sensitif,Paru
+58,L,Positif,Negatif,Tidak,Negatif,Paru
+55,L,Positif,Negatif,Tidak,Negatif,Paru
+43,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+38,L,Positif,Negatif,Tidak,Negatif,Paru
+71,P,Positif,Negatif,Tidak,Negatif,Paru
+68,L,Positif,,Tidak,Rif Sensitif,Paru
+25,L,Negatif,,Tidak,,ekstra_paru
+48,L,Negatif,,Tidak,,ekstra_paru
+39,P,Negatif,Negatif,Tidak,,ekstra_paru
+58,P,Positif,Negatif,Tidak,Negatif,Paru
+49,P,Negatif,,Ya,,ekstra_paru
+19,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+32,L,Negatif,Negatif,Tidak,,ekstra_paru
+30,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+51,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+30,P,Positif,,Tidak,Rif Sensitif,Paru
+29,P,Positif,Negatif,Tidak,Negatif,Paru
+17,P,Positif,,Tidak,Rif Sensitif,Paru
+42,P,Positif,Negatif,Ya,Rif Sensitif,Paru
+66,P,Positif,Negatif,Tidak,Negatif,Paru
+59,P,Positif,Negatif,Tidak,Negatif,Paru
+50,L,Positif,Negatif,Tidak,Negatif,Paru
+65,L,Positif,Negatif,Tidak,Negatif,Paru
+33,L,Positif,Positif,Tidak,Negatif,Paru
+59,P,Negatif,,Tidak,,ekstra_paru
+50,P,Positif,Negatif,Tidak,Negatif,Paru
+46,P,Positif,,Tidak,Negatif,Paru
+50,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+58,P,Positif,Negatif,Tidak,Negatif,Paru
+49,P,Negatif,,Ya,,ekstra_paru
+19,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+48,L,Positif,Negatif,Ya,,Paru
+64,L,Positif,Negatif,Tidak,Negatif,Paru
+54,P,Positif,Negatif,Tidak,Negatif,Paru
+38,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+66,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+83,L,Positif,,Tidak,Rif Sensitif,Paru
+64,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+35,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+77,P,Positif,,Ya,Negatif,Paru
+22,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+27,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+58,L,Positif,Negatif,Ya,Rif Sensitif,Paru
+27,L,Positif,Positif,Tidak,Rif Sensitif,Paru
+70,P,Positif,Negatif,Tidak,Negatif,Paru
+44,P,Positif,Negatif,Tidak,Negatif,Paru
+55,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+81,P,Positif,Negatif,Tidak,Negatif,Paru
+45,L,Positif,Negatif,Tidak,Negatif,Paru
+21,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+50,P,Positif,Negatif,Tidak,Negatif,Paru
+33,L,Positif,Positif,Tidak,Rif Sensitif,Paru
+1,L,Positif,Negatif,Tidak,,Paru
+68,L,Negatif,,Tidak,,ekstra_paru
+51,L,Negatif,Negatif,Tidak,,ekstra_paru
+63,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+24,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+13,L,Positif,Negatif,Tidak,,Paru
+57,L,Negatif,Positif,Tidak,,ekstra_paru
+1,L,Positif,Negatif,Tidak,,Paru
+17,L,Negatif,Negatif,Tidak,,ekstra_paru
+14,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+28,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+44,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+44,P,Negatif,Negatif,Ya,,ekstra_paru
+36,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+47,L,Negatif,Negatif,Tidak,,ekstra_paru
+55,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+30,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+62,L,Positif,Negatif,Tidak,Negatif,Paru
+59,L,Positif,Negatif,Tidak,Negatif,Paru
+57,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+59,P,Negatif,Negatif,Tidak,,ekstra_paru
+76,L,Positif,Negatif,Ya,Rif Sensitif,Paru
+60,P,Positif,Negatif,Tidak,Negatif,Paru
+38,L,Negatif,Negatif,Tidak,,ekstra_paru
+21,P,Positif,Negatif,Tidak,Negatif,Paru
+68,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+58,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+51,P,Positif,Negatif,Tidak,Negatif,Paru
+58,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+20,L,Negatif,Negatif,Tidak,,ekstra_paru
+36,P,Negatif,Negatif,Tidak,,ekstra_paru
+61,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+65,L,Negatif,Negatif,,,ekstra_paru
+19,L,Negatif,Negatif,Tidak,,ekstra_paru
+21,L,Negatif,Negatif,Tidak,,ekstra_paru
+33,P,Negatif,Negatif,Tidak,,ekstra_paru
+53,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+43,L,Positif,Negatif,Tidak,Negatif,Paru
+57,L,Positif,Negatif,Tidak,Negatif,Paru
+1,P,Positif,Negatif,Tidak,,Paru
+49,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+15,L,Negatif,Negatif,Tidak,,ekstra_paru
+46,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+49,L,Positif,Negatif,Ya,Negatif,Paru
+63,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+32,L,Negatif,Negatif,Tidak,,ekstra_paru
+54,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+55,L,Negatif,Negatif,Tidak,,ekstra_paru
+52,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+38,L,Positif,Negatif,Tidak,Negatif,Paru
+25,P,Positif,Negatif,Tidak,Negatif,Paru
+23,L,Negatif,Negatif,Tidak,,ekstra_paru
+47,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+56,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+35,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+47,L,Positif,Negatif,Ya,Rif Sensitif,Paru
+26,L,Negatif,Negatif,Tidak,,ekstra_paru
+64,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+37,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+40,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+33,P,Negatif,Negatif,Tidak,,ekstra_paru
+21,L,Negatif,Negatif,Tidak,,ekstra_paru
+49,L,Negatif,Negatif,Tidak,,ekstra_paru
+50,L,Positif,Negatif,Tidak,Negatif,Paru
+41,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+63,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+45,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+27,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+60,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+18,P,Negatif,Negatif,Tidak,,ekstra_paru
+15,P,Negatif,Negatif,Tidak,,ekstra_paru
+64,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+16,P,Positif,Negatif,Tidak,Negatif,Paru
+27,P,Negatif,Negatif,Tidak,,ekstra_paru
+25,L,Negatif,Negatif,Tidak,,ekstra_paru
+8,L,Positif,Negatif,Tidak,,Paru
+38,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+1,L,Positif,Negatif,Tidak,,Paru
+78,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+28,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+56,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+58,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+69,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+82,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+63,P,Positif,Negatif,Tidak,Negatif,Paru
+47,P,Positif,Negatif,Tidak,Negatif,Paru
+40,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+22,P,Negatif,Negatif,Tidak,,ekstra_paru
+34,P,Positif,Negatif,Tidak,Negatif,Paru
+76,P,Negatif,Negatif,Ya,,ekstra_paru
+55,P,Positif,Negatif,Tidak,Negatif,Paru
+52,L,Negatif,Negatif,Ya,,ekstra_paru
+54,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+35,L,Positif,Negatif,Tidak,Negatif,Paru
+75,L,Positif,Negatif,Tidak,Negatif,Paru
+41,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+55,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+35,P,Negatif,Positif,Tidak,,ekstra_paru
+24,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+70,P,Positif,Negatif,Tidak,Negatif,Paru
+72,L,Negatif,Negatif,Tidak,,ekstra_paru
+33,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+56,L,Positif,Negatif,Tidak,Negatif,Paru
+42,L,Positif,Negatif,Tidak,Negatif,Paru
+58,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+22,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+43,L,Positif,Negatif,Tidak,Negatif,Paru
+52,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+60,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+50,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+78,L,Positif,Negatif,Tidak,Negatif,Paru
+16,L,Negatif,Negatif,Tidak,,ekstra_paru
+51,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+30,L,Negatif,Negatif,Tidak,,ekstra_paru
+48,L,Negatif,Negatif,Tidak,,ekstra_paru
+31,L,Positif,Negatif,Tidak,Negatif,Paru
+39,L,Positif,Negatif,Tidak,Negatif,Paru
+6,L,Positif,Negatif,Tidak,,Paru
+52,L,Positif,Negatif,Tidak,Negatif,Paru
+25,L,Positif,Negatif,Tidak,Negatif,Paru
+73,L,Positif,Negatif,Tidak,Negatif,Paru
+16,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+40,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+40,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+71,P,Negatif,Negatif,Tidak,,ekstra_paru
+62,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+73,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+45,L,Negatif,Negatif,Tidak,,ekstra_paru
+7,P,Negatif,Negatif,Tidak,,ekstra_paru
+32,L,Positif,Negatif,Tidak,Negatif,Paru
+18,P,Negatif,Negatif,Tidak,,ekstra_paru
+26,P,,Negatif,Tidak,,ekstra_paru
+52,L,Positif,Positif,Tidak,Rif Sensitif,Paru
+60,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+50,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+65,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+42,P,,Positif,Tidak,,ekstra_paru
+61,L,Positif,Negatif,Tidak,Negatif,Paru
+53,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+42,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+15,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+45,L,Positif,Negatif,Tidak,Negatif,Paru
+41,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+5,L,Positif,Negatif,Tidak,,Paru
+16,P,Negatif,Negatif,Tidak,,ekstra_paru
+59,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+65,L,,Negatif,Tidak,,ekstra_paru
+38,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+36,L,Negatif,Negatif,Tidak,,ekstra_paru
+59,L,Negatif,Negatif,Tidak,,ekstra_paru
+91,P,,Negatif,Tidak,,ekstra_paru
+49,P,Negatif,Negatif,Tidak,,ekstra_paru
+57,P,Positif,Negatif,Ya,Rif Sensitif,Paru
+16,P,,Negatif,Tidak,,ekstra_paru
+36,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+43,L,Positif,Positif,Tidak,Negatif,Paru
+72,P,Positif,Negatif,Tidak,Negatif,Paru
+76,L,Positif,Negatif,Tidak,Negatif,Paru
+59,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+33,L,Positif,Negatif,Tidak,Negatif,Paru
+67,L,Negatif,Negatif,Tidak,,ekstra_paru
+26,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+65,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+30,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+63,L,Positif,Negatif,Tidak,Negatif,Paru
+60,L,,Negatif,Tidak,,ekstra_paru
+56,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+30,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+57,L,,Negatif,Tidak,,ekstra_paru
+44,L,Positif,Negatif,Tidak,Negatif,Paru
+56,L,Negatif,Negatif,Tidak,,ekstra_paru
+20,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+70,L,Negatif,Negatif,Tidak,,ekstra_paru
+55,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+57,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+61,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+55,L,Positif,Negatif,Tidak,Negatif,Paru
+57,P,Positif,Negatif,Tidak,Negatif,Paru
+65,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+51,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+33,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+31,P,Negatif,Negatif,Tidak,,ekstra_paru
+63,P,,Negatif,Tidak,,ekstra_paru
+30,P,Negatif,Negatif,Tidak,,ekstra_paru
+32,P,,Negatif,Tidak,,ekstra_paru
+43,P,Negatif,Negatif,Tidak,,ekstra_paru
+22,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+61,L,,Negatif,Tidak,,ekstra_paru
+42,P,Positif,Negatif,Tidak,Negatif,Paru
+45,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+73,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+66,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+23,P,,Negatif,Tidak,,ekstra_paru
+51,P,Negatif,Negatif,Tidak,,ekstra_paru
+36,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+58,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+64,P,Positif,Negatif,Tidak,Negatif,Paru
+25,L,Positif,Negatif,Tidak,Negatif,Paru
+54,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+37,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+13,P,Positif,Negatif,Tidak,,Paru
+45,P,Positif,Negatif,Tidak,Negatif,Paru
+39,L,Positif,Negatif,Tidak,Negatif,Paru
+48,L,Positif,Negatif,Tidak,Negatif,Paru
+52,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+56,L,Negatif,Negatif,Tidak,,ekstra_paru
+58,L,Positif,Negatif,Tidak,Negatif,Paru
+70,L,Positif,Negatif,Tidak,Negatif,Paru
+46,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+67,P,Positif,Negatif,Tidak,Negatif,Paru
+53,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+44,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+55,P,Negatif,Negatif,Tidak,,ekstra_paru
+61,P,Positif,Negatif,Tidak,Negatif,Paru
+56,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+24,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+51,L,Positif,Negatif,Tidak,Negatif,Paru
+56,L,,Negatif,Tidak,,ekstra_paru
+74,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+32,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+29,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+40,L,Positif,Negatif,Tidak,Negatif,Paru
+26,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+23,L,Positif,Negatif,Tidak,Negatif,Paru
+23,P,Negatif,Negatif,Tidak,,ekstra_paru
+53,L,Positif,Negatif,Tidak,Negatif,Paru
+18,L,Negatif,Negatif,Tidak,,ekstra_paru
+49,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+36,L,Negatif,,Tidak,,ekstra_paru
+50,L,Negatif,Negatif,Tidak,,ekstra_paru
+42,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+21,L,Negatif,Negatif,Tidak,,ekstra_paru
+13,L,Positif,,Tidak,,Paru
+24,L,Negatif,Negatif,Tidak,,ekstra_paru
+44,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+16,L,Negatif,Negatif,Tidak,,ekstra_paru
+3,L,Positif,Positif,Tidak,,Paru
+3,P,Positif,,Tidak,,Paru
+27,L,Positif,,Tidak,Rif Sensitif,Paru
+19,P,Negatif,Negatif,Tidak,,ekstra_paru
+30,P,Positif,,Tidak,Rif Sensitif,Paru
+56,P,Positif,,Tidak,Negatif,Paru
+66,P,Positif,Negatif,Tidak,Negatif,Paru
+47,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+44,L,Negatif,,Tidak,,ekstra_paru
+3,P,Positif,,Tidak,,Paru
+65,P,Positif,Negatif,Tidak,Negatif,Paru
+18,P,Negatif,Negatif,Tidak,,ekstra_paru
+8,P,Positif,,Tidak,,Paru
+56,L,Positif,Negatif,Tidak,Negatif,Paru
+58,L,Positif,,Tidak,Negatif,Paru
+72,P,Negatif,Negatif,Tidak,,ekstra_paru
+43,P,Positif,Negatif,Ya,Rif Sensitif,Paru
+60,P,Negatif,Negatif,Tidak,,ekstra_paru
+60,P,Positif,,Tidak,Rif Sensitif,Paru
+56,L,Positif,Negatif,Tidak,Negatif,Paru
+50,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+17,L,Positif,Negatif,Tidak,Negatif,Paru
+20,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+57,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+49,P,Positif,Negatif,Tidak,Rif resisten,Paru
+22,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+16,P,Negatif,,Tidak,,ekstra_paru
+21,P,Positif,,Tidak,Rif Sensitif,Paru
+46,P,Negatif,Negatif,Tidak,,ekstra_paru
+10,P,Positif,,Tidak,,Paru
+49,L,Positif,,Tidak,Negatif,Paru
+41,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+35,P,Positif,,Tidak,Rif Sensitif,Paru
+50,P,Positif,Negatif,Tidak,Negatif,Paru
+66,L,Negatif,,Tidak,,ekstra_paru
+51,L,Negatif,Negatif,Ya,,ekstra_paru
+40,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+38,P,Positif,Negatif,Tidak,Negatif,Paru
+33,L,Positif,Negatif,Tidak,Negatif,Paru
+59,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+69,L,Positif,,Tidak,Negatif,Paru
+38,L,Positif,Negatif,Ya,Rif Sensitif,Paru
+56,L,Negatif,Negatif,Tidak,,ekstra_paru
+8,L,Positif,,Tidak,,Paru
+45,L,Negatif,,Tidak,,ekstra_paru
+1,L,Positif,,Tidak,,Paru
+62,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+52,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+55,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+64,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+57,L,Positif,Negatif,Tidak,Negatif,Paru
+64,L,Positif,,Tidak,Rif Sensitif,Paru
+45,P,Positif,Negatif,Tidak,Negatif,Paru
+52,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+25,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+5,P,Positif,,Tidak,,Paru
+68,L,Positif,Negatif,Tidak,Negatif,Paru
+59,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+22,P,Positif,Negatif,Tidak,Negatif,Paru
+47,P,Negatif,Negatif,Tidak,,ekstra_paru
+19,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+46,P,Positif,Negatif,Tidak,Rif resisten,Paru
+33,P,Negatif,Negatif,Tidak,,ekstra_paru
+50,P,Negatif,Negatif,Tidak,,ekstra_paru
+50,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+20,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+65,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+78,P,Negatif,Negatif,Tidak,,ekstra_paru
+36,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+21,L,Negatif,Negatif,Tidak,,ekstra_paru
+50,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+76,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+49,L,Positif,Negatif,Tidak,Negatif,Paru
+70,P,Positif,Negatif,Tidak,Negatif,Paru
+69,L,Positif,,Tidak,Negatif,Paru
+46,P,Negatif,,Tidak,,ekstra_paru
+47,L,Positif,,Tidak,Rif Sensitif,Paru
+80,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+21,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+43,P,Negatif,,Tidak,,ekstra_paru
+51,P,Positif,,Tidak,Negatif,Paru
+20,P,Negatif,Negatif,Tidak,,ekstra_paru
+24,P,Positif,,Tidak,Rif Sensitif,Paru
+46,P,Positif,Negatif,Tidak,Negatif,Paru
+75,L,Negatif,Negatif,Tidak,,ekstra_paru
+50,L,Positif,,Tidak,Rif resisten,Paru
+50,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+53,L,Negatif,,Tidak,,ekstra_paru
+13,L,Negatif,Negatif,Tidak,,ekstra_paru
+36,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+59,P,Positif,Negatif,Ya,Rif Sensitif,Paru
+87,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+58,P,Negatif,Negatif,Tidak,,ekstra_paru
+51,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+50,P,Negatif,Negatif,Tidak,,ekstra_paru
+19,P,Negatif,Negatif,Tidak,,ekstra_paru
+41,P,Positif,Negatif,Tidak,Negatif,Paru
+52,L,Positif,,Tidak,Negatif,Paru
+17,P,Positif,,Tidak,Rif Sensitif,Paru
+14,P,Negatif,Negatif,Tidak,,ekstra_paru
+45,L,Positif,Negatif,Tidak,Negatif,Paru
+20,L,Negatif,Negatif,Tidak,,ekstra_paru
+29,L,Negatif,,Tidak,,ekstra_paru
+64,L,Positif,,Tidak,Rif Sensitif,Paru
+64,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+33,L,Negatif,,Tidak,,ekstra_paru
+17,L,Negatif,,Tidak,,ekstra_paru
+19,L,Negatif,,Tidak,,ekstra_paru
+50,P,Negatif,,Tidak,,ekstra_paru
+23,P,Positif,,Tidak,Rif Sensitif,Paru
+20,L,Negatif,,Tidak,,ekstra_paru
+60,P,Negatif,Negatif,Tidak,,ekstra_paru
+14,P,Positif,,Tidak,,Paru
+34,L,Negatif,,Tidak,,ekstra_paru
+68,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+78,L,Positif,,Ya,Negatif,Paru
+35,P,Negatif,Negatif,Tidak,,ekstra_paru
+28,P,Positif,,Tidak,Negatif,Paru
+12,L,Negatif,,Tidak,,ekstra_paru
+76,L,Positif,,Tidak,Rif Sensitif,Paru
+61,L,Positif,,Tidak,Rif Sensitif,Paru
+67,L,Positif,,Tidak,Rif Sensitif,Paru
+36,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+46,P,Positif,,Tidak,Rif Sensitif,Paru
+27,L,Negatif,Negatif,Tidak,,ekstra_paru
+15,L,Negatif,,Tidak,,ekstra_paru
+32,P,Negatif,,Tidak,,ekstra_paru
+72,L,Positif,,Tidak,Rif Sensitif,Paru
+68,L,Positif,,Tidak,Rif Sensitif,Paru
+60,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+17,P,Negatif,,Tidak,,ekstra_paru
+59,L,Negatif,,Tidak,,ekstra_paru
+54,P,Positif,,Tidak,Rif Sensitif,Paru
+34,P,Positif,,Tidak,Rif Sensitif,Paru
+77,L,Negatif,,Tidak,,ekstra_paru
+68,P,Positif,,Tidak,Rif Sensitif,Paru
+3,L,Positif,,Tidak,Negatif,Paru
+71,L,Positif,,Tidak,Negatif,Paru
+29,P,Negatif,,Tidak,,ekstra_paru
+60,L,Positif,,Tidak,Rif Sensitif,Paru
+35,P,Positif,,Tidak,Negatif,Paru
+25,P,Negatif,,Tidak,,ekstra_paru
+17,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+27,P,Negatif,,Tidak,,ekstra_paru
+36,P,Negatif,Negatif,Tidak,,ekstra_paru
+69,L,Positif,,Tidak,Rif Sensitif,Paru
+29,P,Positif,,Tidak,Rif Sensitif,Paru
+46,P,Negatif,,Tidak,,ekstra_paru
+70,L,Negatif,,Tidak,,ekstra_paru
+62,L,Positif,,Tidak,Negatif,Paru
+62,L,Negatif,,Tidak,,ekstra_paru
+58,P,Positif,,Tidak,Rif Sensitif,Paru
+65,L,Negatif,,Tidak,,ekstra_paru
+22,L,Negatif,,Tidak,,ekstra_paru
+43,L,Negatif,,Ya,,ekstra_paru
+42,L,Positif,,Tidak,Rif Sensitif,Paru
+65,L,Positif,,Ya,Rif Sensitif,Paru
+57,L,Positif,,Tidak,Rif Sensitif,Paru
+65,L,Positif,,Tidak,Rif Sensitif,Paru
+43,L,Positif,,Tidak,Rif Sensitif,Paru
+20,P,Positif,,Tidak,Rif Sensitif,Paru
+43,L,Positif,,Tidak,Rif Sensitif,Paru
+71,L,Positif,,Tidak,Rif Sensitif,Paru
+87,L,Positif,,Tidak,Rif Sensitif,Paru
+56,L,Negatif,,Tidak,,ekstra_paru
+78,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+37,L,Negatif,,Tidak,,ekstra_paru
+58,L,Negatif,,Tidak,,ekstra_paru
+61,L,Positif,,Tidak,Rif Sensitif,Paru
+62,L,Negatif,,Tidak,,ekstra_paru
+51,L,Negatif,Negatif,Tidak,,ekstra_paru
+53,L,Positif,,Tidak,Rif Sensitif,Paru
+35,P,Positif,,Tidak,Rif Sensitif,Paru
+16,P,Negatif,,Tidak,,ekstra_paru
+17,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+25,L,Positif,,Tidak,Rif Sensitif,Paru
+43,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+15,P,Negatif,,Tidak,,ekstra_paru
+26,P,Negatif,,Tidak,,ekstra_paru
+51,P,Positif,Negatif,Tidak,Negatif,Paru
+61,L,Positif,,Tidak,Rif Sensitif,Paru
+22,P,Positif,,Tidak,Rif Sensitif,Paru
+18,P,Negatif,,Tidak,,ekstra_paru
+23,P,,,Tidak,,ekstra_paru
+67,L,Positif,,Tidak,Rif Sensitif,Paru
+69,P,Negatif,,Tidak,,ekstra_paru
+26,P,Negatif,Negatif,Tidak,,ekstra_paru
+60,L,Positif,,Tidak,Rif Sensitif,Paru
+13,P,Negatif,,Tidak,,ekstra_paru
+38,L,Negatif,Negatif,Tidak,,ekstra_paru
+58,P,Negatif,Negatif,Tidak,,ekstra_paru
+52,P,Positif,,Tidak,Negatif,Paru
+17,P,Positif,,Tidak,Rif Sensitif,Paru
+17,P,Negatif,,Tidak,,ekstra_paru
+30,L,Positif,,Tidak,Rif resisten,Paru
+51,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+57,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+79,L,Negatif,,Tidak,,ekstra_paru
+44,L,Negatif,,Tidak,,ekstra_paru
+38,L,Positif,Positif,Tidak,Negatif,Paru
+44,L,Negatif,,Tidak,,ekstra_paru
+25,L,Negatif,Negatif,Tidak,,ekstra_paru
+54,L,Negatif,,Tidak,,ekstra_paru
+16,L,Negatif,,Tidak,,ekstra_paru
+15,P,Negatif,Negatif,Tidak,,ekstra_paru
+64,P,Positif,,Tidak,Rif Sensitif,Paru
+31,P,Negatif,,Tidak,,ekstra_paru
+25,P,Negatif,Negatif,Tidak,,ekstra_paru
+31,P,Negatif,,Tidak,,ekstra_paru
+57,P,Positif,,Tidak,Rif Sensitif,Paru
+56,P,Positif,,Tidak,Rif Sensitif,Paru
+64,P,Positif,,Tidak,Rif Sensitif,Paru
+20,P,Negatif,,Tidak,,ekstra_paru
+60,L,Positif,,Tidak,Rif Sensitif,Paru
+46,P,Negatif,,Tidak,,ekstra_paru
+65,P,Positif,,Tidak,Rif Sensitif,Paru
+35,L,Positif,Negatif,,Rif Sensitif,Paru
+31,L,Negatif,,Tidak,,ekstra_paru
+71,P,Negatif,,Tidak,,ekstra_paru
+72,P,Positif,,Tidak,Rif Sensitif,Paru
+50,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+11,P,Positif,,Tidak,,Paru
+38,P,Negatif,,Tidak,,ekstra_paru
+16,P,Positif,,Tidak,Rif Sensitif,Paru
+2,P,Positif,,Tidak,,Paru
+30,P,Positif,,Tidak,Rif Sensitif,Paru
+17,P,Negatif,,Tidak,,ekstra_paru
+52,P,Negatif,,Tidak,,ekstra_paru
+61,L,Negatif,,Tidak,,ekstra_paru
+49,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+15,L,Negatif,,Tidak,,ekstra_paru
+66,L,Positif,,Tidak,Rif Sensitif,Paru
+26,P,Positif,Positif,Tidak,Rif Sensitif,Paru
+21,L,Negatif,Positif,Tidak,,ekstra_paru
+11,L,Positif,,Tidak,,Paru
+34,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+3,P,Positif,,Tidak,,Paru
+13,P,Positif,,Tidak,,Paru
+47,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+43,L,Positif,Positif,Tidak,Rif Sensitif,Paru
+24,P,Positif,,Tidak,Rif Sensitif,Paru
+44,L,Negatif,,Tidak,,ekstra_paru
+32,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+51,P,Positif,,Tidak,Rif Sensitif,Paru
+55,L,Positif,,Tidak,Rif Sensitif,Paru
+56,L,Negatif,,Tidak,,ekstra_paru
+56,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+37,P,Negatif,,Tidak,,ekstra_paru
+15,P,Negatif,Negatif,Tidak,,ekstra_paru
+34,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+68,L,Positif,,Tidak,Rif Sensitif,Paru
+55,L,Positif,,Tidak,Rif Sensitif,Paru
+50,L,Negatif,,Ya,,ekstra_paru
+37,P,Negatif,,Tidak,,ekstra_paru
+14,P,Negatif,,Tidak,,ekstra_paru
+17,P,Negatif,Negatif,Tidak,,ekstra_paru
+70,L,Negatif,,Tidak,,ekstra_paru
+29,P,Positif,Negatif,Ya,Rif Sensitif,Paru
+53,P,Negatif,,Tidak,,ekstra_paru
+55,L,Negatif,,Tidak,,ekstra_paru
+69,P,Negatif,,Tidak,,ekstra_paru
+64,L,Negatif,Negatif,Tidak,,ekstra_paru
+18,P,Negatif,,Tidak,,ekstra_paru
+20,P,Negatif,,Tidak,,ekstra_paru
+21,P,Negatif,,Tidak,,ekstra_paru
+58,L,Negatif,,Tidak,,ekstra_paru
+19,L,Negatif,,Tidak,,ekstra_paru
+54,P,Positif,,Tidak,Rif Sensitif,Paru
+69,L,Negatif,,Ya,,ekstra_paru
+21,L,Positif,,Tidak,Rif Sensitif,Paru
+23,P,Positif,,Tidak,Rif Sensitif,Paru
+29,P,Positif,,Tidak,Rif Sensitif,Paru
+19,P,Negatif,,Tidak,,ekstra_paru
+41,P,Negatif,,Tidak,,ekstra_paru
+16,P,Negatif,,Tidak,,ekstra_paru
+58,L,Positif,,Tidak,Rif Sensitif,Paru
+59,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+36,L,Positif,,Tidak,Rif Sensitif,Paru
+13,L,Negatif,,Tidak,,ekstra_paru
+55,L,Positif,,Tidak,Rif Sensitif,Paru
+66,L,Negatif,,Ya,,ekstra_paru
+6,L,Positif,,Tidak,,Paru
+10,L,Positif,,Tidak,,Paru
+51,L,Positif,,Tidak,Rif Sensitif,Paru
+49,L,Negatif,Negatif,Tidak,,ekstra_paru
+24,L,Negatif,,Tidak,,ekstra_paru
+47,L,Positif,,Tidak,Negatif,Paru
+19,L,Negatif,,Tidak,,ekstra_paru
+53,P,Positif,,Tidak,Rif Sensitif,Paru
+60,L,Positif,,Tidak,Rif Sensitif,Paru
+29,L,Negatif,,Tidak,,ekstra_paru
+31,L,Negatif,,Tidak,,ekstra_paru
+46,L,Positif,,Ya,Rif Sensitif,Paru
+59,L,Negatif,,Tidak,,ekstra_paru
+65,L,Positif,,Ya,Rif Sensitif,Paru
+4,P,Positif,,Tidak,,Paru
+34,P,Negatif,,Tidak,,ekstra_paru
+16,L,Negatif,,Tidak,,ekstra_paru
+52,P,Positif,,Tidak,Rif Sensitif,Paru
+64,L,Positif,,Ya,Rif Sensitif,Paru
+54,L,Positif,,Ya,Rif Sensitif,Paru
+32,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+70,P,Positif,,Tidak,Rif Sensitif,Paru
+40,L,Negatif,,Tidak,,ekstra_paru
+70,P,Negatif,,Tidak,,ekstra_paru
+28,P,Negatif,,Tidak,,ekstra_paru
+54,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+23,P,Negatif,,Tidak,,ekstra_paru
+56,L,Negatif,,Tidak,,ekstra_paru
+55,L,Positif,,Ya,Rif Sensitif,Paru
+69,L,Positif,,Tidak,Rif Sensitif,Paru
+43,P,Negatif,,Tidak,,ekstra_paru
+66,L,Positif,,Tidak,Rif Sensitif,Paru
+41,L,Positif,Positif,Tidak,Rif Sensitif,Paru
+44,P,Negatif,,Tidak,,ekstra_paru
+46,P,Negatif,Negatif,Tidak,,ekstra_paru
+42,P,Negatif,,Tidak,,ekstra_paru
+54,P,Negatif,,Tidak,,ekstra_paru
+11,L,Negatif,,Tidak,,ekstra_paru
+46,L,Positif,,Tidak,Rif Sensitif,Paru
+21,L,Negatif,,Tidak,,ekstra_paru
+62,P,Negatif,,Tidak,,ekstra_paru
+49,P,Positif,,Ya,Rif Sensitif,Paru
+61,L,Positif,,Tidak,Rif Sensitif,Paru
+46,L,Negatif,,Tidak,,ekstra_paru
+56,L,Negatif,,Tidak,,ekstra_paru
+21,P,Negatif,,Tidak,,ekstra_paru
+28,L,Positif,,Tidak,Rif Sensitif,Paru
+39,P,Negatif,,Tidak,,ekstra_paru
+26,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+1,L,Positif,,Tidak,,Paru
+57,L,Negatif,,Tidak,,ekstra_paru
+24,P,Negatif,,Tidak,,ekstra_paru
+61,P,Positif,,Tidak,Rif Sensitif,Paru
+44,P,Negatif,,Tidak,,ekstra_paru
+31,L,Negatif,Negatif,Tidak,,ekstra_paru
+16,P,Negatif,,Tidak,,ekstra_paru
+53,L,Negatif,,Tidak,,ekstra_paru
+17,P,Negatif,,Tidak,,ekstra_paru
+16,L,Negatif,,Tidak,,ekstra_paru
+69,P,Negatif,,Tidak,,ekstra_paru
+68,L,Positif,,Tidak,Negatif,Paru
